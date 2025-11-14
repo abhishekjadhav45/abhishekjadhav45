@@ -1,119 +1,121 @@
-<h1 align="center">👋 Hi, I'm Abhishek Jadhav</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Problem Solver</h3>
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/dZ3rE3X.png" width="90%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm <span style="color:#4c8bf5">Abhishek Jadhav</span></h1>
+<h3 align="center">🚀 Software Engineer | Full-Stack Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  🚀 Passionate about building scalable systems, clean UI, and real-world applications.  
-  Focused on Java, Spring Boot, React, DSA, and modern engineering practices.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Full+Stack+Developer+%7C+Java+%2B+React;Strong+in+DSA+and+Problem+Solving;Building+clean+and+scalable+applications;Passionate+about+continuous+learning" />
 </p>
 
 ---
 
-## 🔥 About Me
-- 🎯 Aspiring **Software Engineer** with strong fundamentals in **DSA, OOP, and Web Development**  
-- 💻 I build **clean, scalable, and production-ready applications**  
-- 🌱 Currently improving my **React**, **Java**, and **System Design** skills  
-- 🎓 Actively preparing for **placement interviews** and working on real-world projects  
-- ⚡ Passionate about solving problems, writing readable code, and contributing to impactful products  
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### 🚀 Languages & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,html,css,bootstrap,tailwind,git,github,figma,linux" />
+## 🎯 **About Me**
+<p>
+🚀 Full-Stack Developer passionate about building scalable applications using **Java, Spring Boot, React**, and clean architecture.  
+🎯 Focused on mastering **DSA**, system design basics, and real-world development.  
+🔥 Love contributing to open-source & building production-style projects.  
+💼 Actively preparing for **placements and interviews**.
 </p>
 
-### 🧠 Core Skills
-- Data Structures & Algorithms  
-- OOP, SOLID Principles  
-- REST APIs & Backend Architecture  
-- System Design Basics  
-- Clean code practices  
-- Debugging & Problem Solving  
-
 ---
 
-## ⭐ Featured Projects
+# 🧠 **Tech Stack (Graphical)**
 
-### 📌 **1. Horizon Router App (React Router Project)**
-A modern multi-page React Router app with clean UI, professional branding, and smooth navigation.  
-**Tech:** React, React Router, HTML, CSS, JS  
-**Features:**
-- Home, About, Contact, GitHub, LinkedIn, Login, Get Started  
-- Responsive UI with modern layout  
-- Brand name “Horizon”  
-- Hero section with “Download Now” and beach-laptop illustration  
-🔗 **Repo:** *Add your link*  
-🔗 **Live Demo:** *Add if deployed*  
+<h3>🚀 Languages, Frameworks & Tools</h3>
 
----
-
-### 📌 **2. Full-Stack Task Manager (MERN/React + Java Backend)**
-A clean, production-style task management app.  
-**Tech:** React, Node/Express OR Java Spring Boot  
-**Features:**  
-- CRUD operations  
-- Authentication  
-- Beautiful dashboard UI  
-- Clean API structure  
-🔗 **Repo:** *Add your link*
-
----
-
-### 📌 **3. Placement DSA Tracker**
-A tool to track your DSA progress with charts.  
-**Tech:** React + LocalStorage  
-**Features:**  
-- Add/track questions  
-- Graphs for progress  
-- Clean, simple UI  
-🔗 **Repo:** *Add your link*
-
----
-
-## 📊 Coding Stats & Problem Solving
-
-### 🧩 LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/USERNAME?theme=dark&font=Karma&ext=heatmap)
-
-### 🐱 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,html,css,tailwind,bootstrap,git,github,linux,vscode,postman,mongodb,mysql" />
 </p>
 
 ---
 
-## 🏆 Certifications & Achievements
-- ✔ Java Programming / DSA Certification  
-- ✔ Frontend Development Training  
+# 🚀 **Featured Projects (Graphical Cards)**
+
+<p align="center">
+  
+<a href="YOUR_PROJECT_LINK">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO1&theme=tokyonight&border_radius=15" />
+</a>
+
+<a href="YOUR_PROJECT_LINK">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO2&theme=tokyonight&border_radius=15" />
+</a>
+
+<a href="YOUR_PROJECT_LINK">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO3&theme=tokyonight&border_radius=15" />
+</a>
+
+</p>
+
+---
+
+# 🧩 **Problem Solving Stats (Graphical)**
+
+### ⭐ LeetCode  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
+---
+
+# 📊 **GitHub Analytics**
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&border_radius=15" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&border_radius=15" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&border_radius=15" />
+</p>
+
+---
+
+# 🏆 **Achievements & Certifications**
+- ✔ Java & DSA Certifications  
 - ✔ Completed multiple full-stack projects  
 - ✔ Consistent GitHub contributor  
+- ✔ Strong problem-solving skills  
 
 ---
 
-## 📚 Currently Learning
-- React Advanced Patterns  
-- Java Spring Boot  
-- System Design (Basics)  
-- Optimizing DSA  
+# 🌱 **Currently Learning**
+- Advanced React  
+- Spring Boot  
+- System Design  
+- High-level backend architecture  
 
 ---
 
-## 🌐 Connect With Me  
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://skillicons.dev/icons?i=linkedin"></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
-  <a href="https://github.com/USERNAME"><img src="https://skillicons.dev/icons?i=github"></a>
+# 🌐 **Connect With Me**
+<p align="center">
+  <a href="YOUR_LINKEDIN">
+    <img height="40" src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img height="40" src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/USERNAME">
+    <img height="40" src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 ---
 
-## ✨ Fun Fact  
-💬 “A great developer is not the one who knows everything, but the one who never stops learning.”
+# ✨ **Fun Section (Graphical)**
+
+<p align="center">
+  <img src="https://i.imgur.com/8eRZCxv.gif" width="350" />
+</p>
+
+<p align="center"><b>“Stay hungry, stay foolish.” — Steve Jobs</b></p>
 
 ---
 
-## 🤝 Let's Build Something Together!
-If you'd like to collaborate, discuss ideas, or build impactful projects — feel free to reach out!  
+# 🤝 **Let’s Collaborate**
+If you'd like to work together, brainstorm ideas, or build something exciting —  
+📩 **Reach out anytime!**
+
