@@ -72,19 +72,6 @@ A tool to track your DSA progress with charts.
 
 ---
 
-## 📊 Coding Stats & Problem Solving
-
-### 🧩 LeetCode
-![LeetCode Stats](https://leetcard.jacoblin.cool/USERNAME?theme=dark&font=Karma&ext=heatmap)
-
-### 🐱 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight" />
-</p>
-
----
-
 ## 🏆 Certifications & Achievements
 - ✔ Java Programming / DSA Certification  
 - ✔ Frontend Development Training  
@@ -105,7 +92,7 @@ A tool to track your DSA progress with charts.
 <p align="left">
   <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://skillicons.dev/icons?i=linkedin"></a>
   <a href="mailto:youremail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
-  <a href="https://github.com/USERNAME"><img src="https://skillicons.dev/icons?i=github"></a>
+  <a href="https://github.com/abhishekjadhav45"><img src="https://skillicons.dev/icons?i=github"></a>
 </p>
 
 ---
@@ -116,4 +103,4 @@ A tool to track your DSA progress with charts.
 ---
 
 ## 🤝 Let's Build Something Together!
-If you'd like to collaborate, discuss ideas, or build impactful projects — feel free to reach out!  
+If you'd like to collaborate, discuss ideas, or build impactful projects — feel free to reach out!
