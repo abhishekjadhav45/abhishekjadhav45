@@ -1,52 +1,43 @@
 <h1 align="center">👋 Hi, I'm Abhishek Jadhav</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Problem Solver</h3>
+<h3 align="center">Software Engineer | Frontend Developer | Problem Solver</h3>
 
 <p align="center">
-  🚀 Passionate about building scalable systems, clean UI, and real-world applications.  
-  Focused on Java, Spring Boot, React, DSA, and modern engineering practices.
+  🚀 Passionate about building clean UI, scalable systems, and real-world applications.  
+  Focused on React, JavaScript, Java, and strong DSA skills.
 </p>
 
 ---
 
 ## 🔥 About Me
-- 🎯 Aspiring **Software Engineer** with strong fundamentals in **DSA, OOP, and Web Development**  
-- 💻 I build **clean, scalable, and production-ready applications**  
-- 🌱 Currently improving my **React**, **Java**, and **System Design** skills  
-- 🎓 Actively preparing for **placement interviews** and working on real-world projects  
-- ⚡ Passionate about solving problems, writing readable code, and contributing to impactful products  
+- 🎯 Aspiring **Software Engineer** aiming for high-quality placements  
+- 💻 I build **clean, scalable, and user-friendly applications**  
+- 🌱 Currently learning **React**, **Java**, and **System Design basics**  
+- 🎓 Actively preparing for **placement interviews**  
+- ⚡ Passionate about problem-solving and writing clean code  
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### 🚀 Languages & Frameworks
+### 🚀 Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,html,css,bootstrap,tailwind,git,github,figma,linux" />
 </p>
 
 ### 🧠 Core Skills
 - Data Structures & Algorithms  
-- OOP, SOLID Principles  
-- REST APIs & Backend Architecture  
-- System Design Basics  
-- Clean code practices  
+- OOP & Clean Code  
+- REST APIs  
 - Debugging & Problem Solving  
-
----
-
-## 🏆 Certifications & Achievements
-- ✔ Java Programming / DSA Certification  
-- ✔ Frontend Development Training  
-- ✔ Completed multiple full-stack projects  
-- ✔ Consistent GitHub contributor  
+- Frontend UI Engineering  
 
 ---
 
 ## 📚 Currently Learning
-- React Advanced Patterns  
-- Java Spring Boot  
-- System Design (Basics)  
-- Optimizing DSA  
+- React Advanced Concepts  
+- Java + Backend Fundamentals  
+- System Design Basics  
+- DSA for Placements  
 
 ---
 
@@ -59,10 +50,112 @@
 
 ---
 
-## ✨ Fun Fact  
-💬 “A great developer is not the one who knows everything, but the one who never stops learning.”
+# 🎮 Working Mini Maze Game (HTML + CSS + JavaScript)
+A fully working mini maze game you can run locally.  
+👉 Copy the code into a file named **maze.html** and open it in a browser.
 
----
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Mini Maze Game</title>
+<style>
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #111;
+    color: #fff;
+    font-family: Arial;
+  }
+  #maze {
+    display: grid;
+    grid-template-columns: repeat(10, 40px);
+    grid-template-rows: repeat(10, 40px);
+    gap: 2px;
+  }
+  .cell {
+    width: 40px;
+    height: 40px;
+    background: #333;
+  }
+  .wall {
+    background: #555;
+  }
+  .player {
+    background: #4CAF50;
+  }
+  .goal {
+    background: #ffca28;
+  }
+</style>
+</head>
+<body>
 
-## 🤝 Let's Build Something Together!
-If you'd like to collaborate, discuss ideas, or build impactful projects — feel free to reach out!
+<h2>Use Arrow Keys to Move</h2>
+<div id="maze"></div>
+
+<script>
+const maze = document.getElementById("maze");
+
+const layout = [
+  "##########",
+  "#P.......#",
+  "#.######.#",
+  "#.#....#.#",
+  "#.#.##.#.#",
+  "#.#.##.#.#",
+  "#.#....#.#",
+  "#.######.#",
+  "#........#",
+  "########G#"
+];
+
+let playerX = 1;
+let playerY = 1;
+
+function drawMaze() {
+  maze.innerHTML = "";
+  for (let y = 0; y < layout.length; y++) {
+    for (let x = 0; x < layout[y].length; x++) {
+      const div = document.createElement("div");
+      div.classList.add("cell");
+
+      if (layout[y][x] === "#") div.classList.add("wall");
+      if (x === playerX && y === playerY) div.classList.add("player");
+      if (layout[y][x] === "G") div.classList.add("goal");
+
+      maze.appendChild(div);
+    }
+  }
+}
+
+function move(dx, dy) {
+  const newX = playerX + dx;
+  const newY = playerY + dy;
+
+  if (layout[newY][newX] === "#") return;
+  playerX = newX;
+  playerY = newY;
+
+  drawMaze();
+
+  if (layout[playerY][playerX] === "G") {
+    setTimeout(() => alert("🎉 You Reached the Goal!"), 50);
+  }
+}
+
+document.addEventListener("keydown", (e) => {
+  if (e.key === "ArrowUp") move(0, -1);
+  if (e.key === "ArrowDown") move(0, 1);
+  if (e.key === "ArrowLeft") move(-1, 0);
+  if (e.key === "ArrowRight") move(1, 0);
+});
+
+drawMaze();
+</script>
+</body>
+</html>
