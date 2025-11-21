@@ -1,68 +1,83 @@
-<h1 align="center">👋 Hi, I'm Abhishek Jadhav</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Problem Solver</h3>
-
-<p align="center">
-  🚀 Passionate about building scalable systems, clean UI, and real-world applications.  
-  Focused on Java, Spring Boot, React, DSA, and modern engineering practices.
-</p>
+<h1 align="center">Hi 👋, I'm Abhishek Jadhav</h1>
+<h3 align="center">Frontend Developer | React.js Enthusiast | DSA Learner</h3>
 
 ---
 
-## 🔥 About Me
-- 🎯 Aspiring **Software Engineer** with strong fundamentals in **DSA, OOP, and Web Development**  
-- 💻 I build **clean, scalable, and production-ready applications**  
-- 🌱 Currently improving my **React**, **Java**, and **System Design** skills  
-- 🎓 Actively preparing for **placement interviews** and working on real-world projects  
-- ⚡ Passionate about solving problems, writing readable code, and contributing to impactful products  
+## 🚀 About Me
+I'm a passionate **React Developer** focused on building clean, modern, fast UI applications.  
+Currently preparing for **on-campus placements** and sharpening my skills in **DSA, React.js, and System Design**.
 
 ---
 
-## 🛠️ Tech Stack & Skills
-
-### 🚀 Languages & Frameworks
+## 🔗 Connect With Me
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,html,css,bootstrap,tailwind,git,github,figma,linux" />
+<a href="https://www.linkedin.com/in/abhishekjadhav45" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+
+<a href="https://github.com/abhishekjadhav45" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+
+<a href="mailto:abhishekjadhav455@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
-### 🧠 Core Skills
-- Data Structures & Algorithms  
-- OOP, SOLID Principles  
-- REST APIs & Backend Architecture  
-- System Design Basics  
-- Clean code practices  
-- Debugging & Problem Solving  
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhishekjadhav45&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjadhav45&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=abhishekjadhav45&theme=tokyonight&hide_border=true" height="180" />
+
+</div>
 
 ---
 
-## 🏆 Certifications & Achievements
-- ✔ Java Programming / DSA Certification  
-- ✔ Frontend Development Training  
-- ✔ Completed multiple full-stack projects  
-- ✔ Consistent GitHub contributor  
-
----
-
-## 📚 Currently Learning
-- React Advanced Patterns  
-- Java Spring Boot  
-- System Design (Basics)  
-- Optimizing DSA  
-
----
-
-## 🌐 Connect With Me  
+## 🧠 Tech Stacks & Skills
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://skillicons.dev/icons?i=linkedin"></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
-  <a href="https://github.com/abhishekjadhav45"><img src="https://skillicons.dev/icons?i=github"></a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,git,github,vscode" height="50" />
 </p>
 
 ---
 
-## ✨ Fun Fact  
-💬 “A great developer is not the one who knows everything, but the one who never stops learning.”
+## 🚀 Featured Projects
+
+### 🌐 Horizon Router App (React Router Project)
+A complete multi-page React Router application with modern UI, branding, and animations.  
+**Tech:** React, React Router, Tailwind, JS  
+🔗 Repo: *Add your link*
 
 ---
 
-## 🤝 Let's Build Something Together!
-If you'd like to collaborate, discuss ideas, or build impactful projects — feel free to reach out!
+### 📝 Full-Stack Task Manager (MERN / Java Backend)
+A production-style task manager with authentication & CRUD operations.  
+**Tech:** React + Node/Express OR Spring Boot  
+🔗 Repo: *Add your link*
+
+---
+
+### 📘 Placement DSA Tracker
+Track your DSA progress with charts & local storage saving.  
+**Tech:** React, LocalStorage  
+🔗 Repo: *Add your link*
+
+---
+
+## 🎯 Fun Fact
+I break things while learning — then fix them like a pro 😄  
+Because that’s how real developers grow!
+
+---
+
+## 🚀 My Goals for 2025
+- Crack a good placement  
+- Build 10+ strong React projects  
+- Master DSA (already on it!)  
+- Become confident in full-stack skills  
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
