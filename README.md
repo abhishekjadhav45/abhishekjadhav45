@@ -1,98 +1,109 @@
-<h1 align="center">Hi 👋, I'm Abhishek Jadhav</h1>
-<h3 align="center">Full-Stack Developer | React & Spring Boot | DSA Enthusiast</h3>
+<h1 align="center">Abhishek Jadhav</h1>
+<h3 align="center">Full-Stack Developer · React & Spring Boot · DSA-Driven Engineer</h3>
 
----
+<p align="center">
+Building scalable web systems with clean architecture, strong fundamentals, and real-world impact.
+</p>
 
-## 🚀 About Me
-Full-stack **developer** with a strong focus on building scalable, performant, and user-centric web applications.  
-Skilled in **DSA, HTML, CSS, JavaScript, React, Spring Boot, MySQL, and AWS**, with hands-on experience in both frontend and backend development.  
-Actively working on real-world projects and internship experiences to strengthen problem-solving, system design thinking, and production-level development.
-
----
-
-## 🧑‍💻 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,spring,redux,tailwind,bootstrap,java,mysql,aws,git,github,vscode" height="50" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishekjadhav45">LinkedIn</a> •
+  <a href="https://github.com/abhishekjadhav45">GitHub</a> •
+  <a href="mailto:abhishekjadhav455@gmail.com">Email</a>
 </p>
 
 ---
 
-## 💼 Experience
+## Professional Summary
+Results-oriented **Full-Stack Developer** with hands-on experience in designing and building **production-ready web applications** using **React, Java, Spring Boot, and MySQL**.  
+Strong foundation in **Data Structures & Algorithms**, backend architecture, and clean coding practices.
 
-### Java Intern – Infosys Springboard  
+Experienced in working within **structured internship environments**, delivering features with clarity, ownership, and scalability in mind.  
+Actively seeking opportunities where engineering excellence and continuous learning are valued.
+
+---
+
+## Technical Skills
+**Languages:** Java, JavaScript  
+**Frontend:** React, Redux, HTML5, CSS3, Tailwind, Bootstrap  
+**Backend:** Spring Boot, REST APIs  
+**Databases:** MySQL  
+**Tools & Platforms:** Git, GitHub, AWS (Basics), Postman, VS Code  
+**Core Concepts:** DSA, OOP, Clean Code, REST Architecture, System Design Fundamentals  
+
+---
+
+## Professional Experience
+
+### Java Intern — Infosys Springboard  
 **Duration:** 2 Months  
-**Role:** Java Backend Developer – Internet Site Survey Tool  
 
-- Developed a Site Survey Tool for Internet Service Providers using **Java** and **Spring Boot**, focusing on reliability and modular design.  
-- Built **RESTful APIs**, backend service layers, and **MySQL** database schemas for efficient storage and retrieval of survey data.  
-- Collaborated in a structured internship environment, working with mentors and following milestone-based delivery similar to real-world project workflows.
-
----
-
-## 📂 Featured Projects
-
-### 1️⃣ Internet Site Survey Platform
-A web application that allows ISPs to record, manage, and analyze internet site surveys for residential and commercial locations.  
-
-**Highlights:**
-- Backend built with **Java + Spring Boot**, exposing secure REST APIs for survey creation, updates, and reporting.  
-- **MySQL** used for relational data modeling of locations, survey sessions, and technician assignments.  
-- Designed with future scalability in mind, enabling integration with dashboards or analytics tools.
-
-**Tech:** Java, Spring Boot, MySQL, REST API, Postman  
+- Developed a backend-driven **Internet Site Survey Tool** for Internet Service Providers.  
+- Designed and implemented **RESTful APIs** using **Spring Boot** following layered architecture.  
+- Built and managed relational schemas using **MySQL** to ensure data consistency and performance.  
+- Worked in a mentor-guided, milestone-based environment simulating real industry workflows.
 
 ---
 
-### 2️⃣ Food Delivery Web App
-A modern, responsive food ordering platform that connects users with nearby restaurants and provides a smooth ordering experience.  
+## Selected Projects
 
-**Highlights:**
-- Frontend built using **React** with reusable components, protected routes, and global state management.  
-- Features include restaurant listing, menu browsing, cart management, order summary, and dynamic UI updates.  
-- Integration-ready design for backend APIs and payment gateways for real-world deployment.
+### Internet Site Survey Platform
+A scalable backend application enabling ISPs to manage, store, and analyze internet site survey data.
 
-**Tech:** React, JavaScript, CSS/Tailwind, React Router  
+- Implemented modular backend services using **Spring Boot**  
+- Designed relational data models in **MySQL**  
+- Built REST APIs for survey creation, updates, and reporting  
+- Designed with extensibility for analytics and dashboards  
 
----
-
-### 3️⃣ Skin Cancer Treatment & Awareness Portal
-A web portal focused on skin cancer awareness, preliminary risk assessment, and treatment information access.  
-
-**Highlights:**
-- UI designed for clarity and accessibility, enabling users to explore symptoms, treatment options, and doctor/contact sections.  
-- Built with **React** and component-based design patterns, ready to integrate with AI/ML APIs for image-based risk prediction in future versions.  
-- Emphasis on clean UX, responsive layout, and structured content presentation for medical awareness platforms.
-
-**Tech:** React, JavaScript, CSS, Responsive Design  
+**Tech:** Java, Spring Boot, MySQL, REST APIs
 
 ---
 
-## 📊 GitHub Analytics
-<div align="center">
+### Food Delivery Web Application
+A modern, responsive food ordering platform with a focus on usability and clean UI design.
 
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjadhav45&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+- Built reusable React components and client-side routing  
+- Implemented cart management and dynamic UI updates  
+- Designed API-ready architecture for backend & payment integration  
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjadhav45&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=abhishekjadhav45&theme=tokyonight&hide_border=true" height="180" />
-
-</div>
+**Tech:** React, JavaScript, Tailwind CSS, React Router
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/abhishekjadhav45" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="https://github.com/abhishekjadhav45" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
-  <a href="mailto:abhishekjadhav455@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
+### Skin Cancer Treatment & Awareness Portal
+An informational platform aimed at improving awareness and accessibility to treatment information.
+
+- Designed accessible, responsive UI with clear information hierarchy  
+- Built using component-based React architecture  
+- Prepared for future AI/ML-based risk assessment integration  
+
+**Tech:** React, JavaScript, CSS
+
+---
+
+## Problem Solving & Consistency
+- Solved **200+ problems** on LeetCode  
+- Maintained **250+ commits** on GitHub  
+- Daily problem solver and consistent contributor  
+- Strong focus on logic building and optimization  
+
+---
+
+## GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjadhav45&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjadhav45&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=abhishekjadhav45&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile — open to exciting opportunities! ⭐</h3>
+<p align="center">
+<i>“Consistency beats intensity. Systems beat shortcuts.”</i>
+</p>
+
+<p align="center">
+Open to internships and full-time software engineering opportunities.
+</p>
