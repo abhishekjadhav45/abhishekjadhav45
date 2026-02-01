@@ -10,7 +10,7 @@ Actively working on real-world projects and internship experiences to strengthen
 
 ---
 
-## 🧑‍💻 Tech Stack
+### 🧑‍💻 Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,spring,redux,tailwind,bootstrap,java,mysql,aws,git,github,vscode" height="50" />
 </p>
