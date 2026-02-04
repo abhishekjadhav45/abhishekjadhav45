@@ -19,7 +19,7 @@ Actively working on real-world projects and internship experiences to strengthen
 
 ## 💼 Experience
 
-### Java Intern – Infosys Springboard  
+## Java Intern – Infosys Springboard  
 **Duration:** 2 Months  
 **Role:** Java Backend Developer – Internet Site Survey Tool  
 
