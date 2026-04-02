@@ -78,7 +78,7 @@ A web portal focused on skin cancer awareness, preliminary risk assessment, and 
 
 </div>
 
-----
+---
 
 ## 🌐 Connect With Me
 <p align="left">
