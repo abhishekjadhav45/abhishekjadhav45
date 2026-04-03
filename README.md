@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jadhav</h1>
 <h3 align="center">Full-Stack Developer | React & Spring Boot | DSA Enthusiast</h3>
 
-----
+---
 
 ## 🚀 About Me
 Full-stack **developer** with a strong focus on building scalable, performant, and user-centric web applications.  
