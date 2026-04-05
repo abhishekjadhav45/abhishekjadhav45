@@ -65,7 +65,7 @@ A web portal focused on skin cancer awareness, preliminary risk assessment, and 
 
 **Tech:** React, JavaScript, CSS, Responsive Design  
 
----
+--
 
 ## 📊 GitHub Analytics
 <div align="center">
